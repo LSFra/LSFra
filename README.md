@@ -2,7 +2,7 @@
 
 I am a third-year high school student enrolled in the "Technical Course in Informatics - Web Mobile Development." I have a strong interest in software development and technology.
 
-🚀 About Me
+<h1>🚀 About Me</h1>
 
 💻 Experience with C# and web development.
 
@@ -16,7 +16,7 @@ Tools: Visual Studio 2022, GitHub
 
 Interests: Web development, ERD, game computing, and productivity
 
-📫 Contact
+<h1>📫 Contact</h1>
 
 You can find me at:
 

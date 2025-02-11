@@ -1,6 +1,6 @@
 <h1>👋 Hello Word, I'm Lucca Santos França!</h1>
 
-I am a third-year high school student enrolled in the "Technical Course in Informatics - Web Mobile Development." I have a strong interest in software development and technology.
+I am a third-year high school student enrolled in the Web Mobile Development Course. I have a strong interest in software development and technology.
 
 <h1>🚀 About Me</h1>
 

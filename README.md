@@ -10,7 +10,7 @@ I am a third-year high school student enrolled in the Web Mobile Development Cou
 
 🛠 Technologies and Tools
 
-Languages: C#, HTML, CSS, JavaScript, PHP, Kotlin, Dart, Swift
+Skills: C#, HTML, CSS, JavaScript, PHP, Kotlin, Dart, Swift
 
 Tools: Visual Studio 2022, GitHub
 
